@@ -108,38 +108,7 @@ const thiwanki = {
 
 <br/>
 
-<!-- Enhanced Snake Animation Section -->
-<div align="center">
-  
-## 🐍 GitHub Contribution Snake Game
 
-### 🎮 Watch the Snake Eat My Contributions!
-
-<!-- Multiple Snake Animation Options -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiwankiLakshani/ThiwankiLakshani/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiwankiLakshani/ThiwankiLakshani/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ThiwankiLakshani/ThiwankiLakshani/output/github-snake.svg" />
-</picture>
-
-<!-- Alternative Snake Animation -->
-<img src="https://github.com/ThiwankiLakshani/ThiwankiLakshani/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-
-### 🎯 Snake Game Configuration
-<table align="center">
-  <tr>
-    <td><img src="https://img.shields.io/badge/🐍%20Snake-Active-success?style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/⏰%20Updates-Every%2012h-blue?style=flat-square" /></td>
-    <td><img src="https://img.shields.io/badge/🎯%20Target-Contributions-red?style=flat-square" /></td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- Advanced Tech Stack with Animations -->
-<div align="center">
 
 ## ⚡ Tech Arsenal
 
@@ -196,34 +165,7 @@ const thiwanki = {
 
 <br/>
 
-<!-- Coding Activity -->
-<div align="center">
 
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 30 mins  ████████████▒░░░░░░░░   52.3%
-TypeScript   6 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░   26.1%
-Python       3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░   15.7%
-CSS          1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░    5.9%
-```
-<!--END_SECTION:waka-->
-
-</div>
-
-<br/>
-
-<!-- Spotify Integration -->
-<div align="center">
-
-## 🎵 Current Vibe Check
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31c6ntc4hwlre3bdt3hf5ivcgm7m&count=3&unique=true" alt="Spotify Recently Played" width="400" />
-
-</div>
-
-<br/>
 
 <!-- Comprehensive GitHub Metrics Dashboard -->
 <div align="center">
