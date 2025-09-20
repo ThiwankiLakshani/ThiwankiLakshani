@@ -108,26 +108,31 @@ const thiwanki = {
 
 <br/>
 
-<!-- Snake Animation with Enhanced Styling -->
+<!-- Enhanced Snake Animation Section -->
 <div align="center">
   
-## 🐍 Contribution Snake Game - Watch My Code Get Devoured!
+## 🐍 GitHub Contribution Snake Game
 
-### 🎮 Interactive Snake Animation
-*The snake below represents my GitHub contribution journey - each commit becomes food for the snake!*
+### 🎮 Watch the Snake Eat My Contributions!
 
+<!-- Multiple Snake Animation Options -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiwankiLakshani/ThiwankiLakshani/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiwankiLakshani/ThiwankiLakshani/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThiwankiLakshani/ThiwankiLakshani/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiwankiLakshani/ThiwankiLakshani/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiwankiLakshani/ThiwankiLakshani/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ThiwankiLakshani/ThiwankiLakshani/output/github-snake.svg" />
 </picture>
 
-### 🎯 Snake Game Stats
-<p align="center">
-  <img src="https://img.shields.io/badge/Snake%20Game-Active-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Snake Active"/>
-  <img src="https://img.shields.io/badge/Auto%20Update-Every%206hrs-blue?style=for-the-badge&logo=clockify&logoColor=white" alt="Auto Update"/>
-  <img src="https://img.shields.io/badge/Contributions-Eaten%20Daily-red?style=for-the-badge&logo=github&logoColor=white" alt="Contributions"/>
-</p>
+<!-- Alternative Snake Animation -->
+<img src="https://github.com/ThiwankiLakshani/ThiwankiLakshani/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+### 🎯 Snake Game Configuration
+<table align="center">
+  <tr>
+    <td><img src="https://img.shields.io/badge/🐍%20Snake-Active-success?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/⏰%20Updates-Every%2012h-blue?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/🎯%20Target-Contributions-red?style=flat-square" /></td>
+  </tr>
+</table>
 
 </div>
 
@@ -179,21 +184,87 @@ const thiwanki = {
 ## 🚀 Featured Projects
 
 <p>
-  <a href="">
+  <a href="https://github.com/ThiwankiLakshani/awesome-project-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiwankiLakshani&repo=awesome-project-1&theme=react&hide_border=true" alt="Project 1"/>
   </a>
- 
+  <a href="https://github.com/ThiwankiLakshani/cool-app-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiwankiLakshani&repo=cool-app-2&theme=react&hide_border=true" alt="Project 2"/>
+  </a>
 </p>
 
 </div>
 
 <br/>
 
+<!-- Coding Activity -->
+<div align="center">
 
+## 📈 Weekly Development Breakdown
 
-## 📊 Advanced GitHub Metrics
+<!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 30 mins  ████████████▒░░░░░░░░   52.3%
+TypeScript   6 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░   26.1%
+Python       3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░   15.7%
+CSS          1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░    5.9%
+```
+<!--END_SECTION:waka-->
 
-<img src="https://metrics.lecoq.io/ThiwankiLakshani?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&followup=1&languages=1&lines=1&projects=1&code=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&followup.sections=repositories&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&projects.limit=4&projects.descriptions=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FColumbo" alt="Detailed GitHub Metrics"/>
+</div>
+
+<br/>
+
+<!-- Spotify Integration -->
+<div align="center">
+
+## 🎵 Current Vibe Check
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31c6ntc4hwlre3bdt3hf5ivcgm7m&count=3&unique=true" alt="Spotify Recently Played" width="400" />
+
+</div>
+
+<br/>
+
+<!-- Comprehensive GitHub Metrics Dashboard -->
+<div align="center">
+
+## 📊 Comprehensive GitHub Analytics
+
+<!-- Profile Summary Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiwankiLakshani&theme=github_dark" alt="Profile Summary" />
+
+<!-- Stats Row 1: Main Stats & Languages -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ThiwankiLakshani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=300" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiwankiLakshani&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=300" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=ThiwankiLakshani&theme=tokyonight&hide_border=true&card_width=600" alt="GitHub Streak" />
+
+<!-- Advanced Metrics Row -->
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThiwankiLakshani&theme=github_dark" alt="Repos per Language" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThiwankiLakshani&theme=github_dark" alt="Most Commit Language" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiwankiLakshani&theme=github_dark" alt="Stats" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiwankiLakshani&theme=github_dark&utcOffset=5.5" alt="Productive Time" /></td>
+  </tr>
+</table>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiwankiLakshani&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" alt="Activity Graph" />
+
+<!-- Contribution Calendar -->
+<img src="https://ghchart.rshah.org/409ba5/ThiwankiLakshani" alt="Contribution Calendar" />
 
 </div>
 
@@ -269,4 +340,3 @@ If you like my work and want to support my journey, consider buying me a coffee!
 <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-pink?style=for-the-badge" alt="Open Source Love"/>
 
 </div>
-
