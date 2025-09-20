@@ -1,161 +1,297 @@
-# Hi there! 👋 I'm [Your Name]
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer;Always+learning+new+technologies;Let's+build+something+amazing!" alt="Typing SVG" />
+  
+  <!-- Dynamic Header with Gradient Animation -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ThiwankiLakshani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  
 </div>
 
-## 🚀 About Me
+<!-- Typing Animation with Multiple Lines -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=3DADF7&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Full+Stack+Developer+%7C+Code+Architect;Turning+Ideas+into+Digital+Reality" alt="Typing Animation"/>
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br/>
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Your Name"
-        self.role = "Full Stack Developer"
-        self.location = "Your Location"
-        self.languages = ["Python", "JavaScript", "TypeScript", "Java"]
-        self.frameworks = ["React", "Node.js", "Django", "Express"]
-        self.databases = ["PostgreSQL", "MongoDB", "Redis"]
-        self.cloud = ["AWS", "Docker", "Kubernetes"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something awesome together.")
+<!-- Additional Animated Developer Section -->
+<div align="center">
 
-me = Developer()
-me.say_hi()
+## 👨‍💻 Developer Life in Motion
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" alt="Developer GIF"/>
+
+</div>
+
+### 💭 My Coding Journey
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=From+%22Hello+World%22+to+Complex+Systems;Debugging+is+like+being+a+detective;Coffee+%2B+Code+%3D+Magic+%E2%9C%A8;Building+the+future%2C+one+commit+at+a+time" alt="Developer Journey"/>
+
+</div>
+
+<br/>
+
+<!-- Advanced Profile Views with Custom Design -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThiwankiLakshani&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/ThiwankiLakshani?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge&labelColor=black" alt="Focus"/>
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🧬 About Me - Decoded
+
+<img align="right" alt="Animated Developer" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
+
+```javascript
+const thiwanki = {
+    pronouns: "She/Her",
+    code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
+    askMeAbout: ["Web Dev", "Tech", "App Dev", "AI/ML", "Photography"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vue", "Next.js"],
+            css: ["Sass", "Tailwind", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node", "Express", "Nest.js"],
+            python: ["Django", "FastAPI", "Flask"],
+            java: ["Spring Boot", "Maven"]
+        },
+        databases: ["MongoDB", "PostgreSQL", "Firebase", "Redis"],
+        cloud: ["AWS", "Google Cloud", "Docker", "Kubernetes"],
+        misc: ["GraphQL", "Socket.io", "PWA", "Webpack"]
+    },
+    architecture: ["Microservices", "Event-Driven", "Serverless"],
+    currentFocus: "Building scalable applications with modern tech stack",
+    funFact: "I debug with console.log and I'm proud of it! 😄"
+};
 ```
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technology You're Learning]**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, Python, JavaScript**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Your Fun Fact]**
+<br/>
 
-## 🛠️ Technologies & Tools
-
+<!-- Advanced GitHub Stats with Custom Theme -->
 <div align="center">
+  
+## 📊 GitHub Analytics Dashboard
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<!-- Main Stats Row -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiwankiLakshani&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&custom_title=ThiwankiLakshani's%20GitHub%20Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiwankiLakshani&layout=compact&theme=react&hide_border=true&langs_count=10&card_width=300"/>
+</p>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ThiwankiLakshani&theme=react&hide_border=true&fire=DD2727&sideLabels=1F6BD9" alt="GitHub Streak"/>
+</p>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<!-- Advanced Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiwankiLakshani&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&point=1F6BD9&color=58A6FF&area_color=58A6FF&area=true" alt="Contribution Graph"/>
 
 </div>
 
-## 📊 GitHub Stats
+<br/>
 
+<!-- Snake Animation with Enhanced Styling -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiwankiLakshani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiwankiLakshani&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+## 🐍 Contribution Snake Game - Watch My Code Get Devoured!
+
+<div style="background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 20px; margin: 20px 0;">
+  
+### 🎮 Interactive Snake Animation
+*The snake below represents my GitHub contribution journey - each commit becomes food for the snake!*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiwankiLakshani/ThiwankiLakshani/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiwankiLakshani/ThiwankiLakshani/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThiwankiLakshani/ThiwankiLakshani/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak"/>
+### 🎯 Snake Game Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/Snake%20Game-Active-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Snake Active"/>
+  <img src="https://img.shields.io/badge/Auto%20Update-Every%206hrs-blue?style=for-the-badge&logo=clockify&logoColor=white" alt="Auto Update"/>
+  <img src="https://img.shields.io/badge/Contributions-Eaten%20Daily-red?style=for-the-badge&logo=github&logoColor=white" alt="Contributions"/>
+</p>
+
 </div>
 
-## 🔥 Contribution Graph
+<br/>
 
+<!-- Advanced Tech Stack with Animations -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+
+## ⚡ Tech Arsenal
+
+### 🎨 Frontend Universe
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,nextjs,nuxtjs,svelte,tailwind,sass,bootstrap,materialui,figma" alt="Frontend Skills" />
+</p>
+
+### 🔧 Backend Powerhouse  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi,flask,java,spring,php,laravel,golang,rust" alt="Backend Skills" />
+</p>
+
+### 🗄️ Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase,aws,gcp,azure,docker,kubernetes,nginx" alt="Database & Cloud" />
+</p>
+
+### 🛠️ Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,webstorm,postman,linux,bash,powershell,cmake,webpack,vite" alt="Development Tools" />
+</p>
+
 </div>
 
-## 🐍 Watch my contributions get eaten by the snake!
+<br/>
 
+<!-- GitHub Trophies -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
-  </picture>
+
+## 🏆 Achievement Gallery
+
+<img src="https://github-profile-trophy.vercel.app/?username=ThiwankiLakshani&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
 </div>
 
-## 🏆 GitHub Trophies
+<br/>
 
+<!-- Featured Repositories -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
 
-## 🎯 Current Projects
+## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight" alt="Project 1"/>
+<p>
+  <a href="https://github.com/ThiwankiLakshani/awesome-project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiwankiLakshani&repo=awesome-project-1&theme=react&hide_border=true" alt="Project 1"/>
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight" alt="Project 2"/>
+  <a href="https://github.com/ThiwankiLakshani/cool-app-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiwankiLakshani&repo=cool-app-2&theme=react&hide_border=true" alt="Project 2"/>
   </a>
+</p>
+
 </div>
 
-## 🎵 Currently Listening To
+<br/>
 
+<!-- Coding Activity -->
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yourspotifyusername&count=1" alt="Spotify Recently Played"/>
+
+## 📈 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 30 mins  ████████████▒░░░░░░░░   52.3%
+TypeScript   6 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░   26.1%
+Python       3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░   15.7%
+CSS          1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░    5.9%
+```
+<!--END_SECTION:waka-->
+
 </div>
 
-## 🌐 Connect with me
+<br/>
 
+<!-- Spotify Integration -->
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+
+## 🎵 Current Vibe Check
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31c6ntc4hwlre3bdt3hf5ivcgm7m&count=3&unique=true" alt="Spotify Recently Played" width="400" />
 
 </div>
 
-## 📈 Profile Views
+<br/>
 
+<!-- Advanced Metrics -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+## 📊 Advanced GitHub Metrics
+
+<img src="https://metrics.lecoq.io/ThiwankiLakshani?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&followup=1&languages=1&lines=1&projects=1&code=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&followup.sections=repositories&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&projects.limit=4&projects.descriptions=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FColumbo" alt="Detailed GitHub Metrics"/>
+
 </div>
 
----
+<br/>
 
+<!-- Connect Section with Advanced Design -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
-  
-  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Feel+free+to+reach+out;Let's+collaborate+and+build+together!" alt="Footer Typing SVG" />
+
+## 🌐 Let's Connect & Collaborate!
+
+<p>
+  <a href="https://linkedin.com/in/thiwankilakshani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/thiwankilakshani"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/></a>
+  <a href="https://instagram.com/thiwankilakshani"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/></a>
+  <a href="https://dev.to/thiwankilakshani"><img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A" alt="Dev.to"/></a>
+  <a href="https://medium.com/@thiwankilakshani"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E" alt="Medium"/></a>
+</p>
+
+<p>
+  <a href="mailto:thiwanki@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/></a>
+  <a href="https://thiwankilakshani.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722" alt="Portfolio"/></a>
+</p>
+
+### 💬 Feel free to reach out for:
+- 🤝 **Collaboration** on exciting projects
+- 💡 **Discussion** about technology & innovation  
+- 🚀 **Opportunities** in full-stack development
+- ☕ **Coffee chat** about code & creativity
+
 </div>
 
-<!--
-**ThiwankiLakshani/ThiwankiLakshani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<!-- Inspirational Quote -->
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💭 Daily Inspiration
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+</div>
+
+<br/>
+
+<!-- Support Section -->
+<div align="center">
+
+## ☕ Support My Journey
+
+If you like my work and want to support my journey, consider buying me a coffee!
+
+<a href="https://www.buymeacoffee.com/thiwankilakshani" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+</a>
+
+</div>
+
+<br/>
+
+<!-- Footer with Animation -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+<!-- Fun Footer Quote -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let's+build+something+amazing+together!+%F0%9F%9A%80;Happy+coding!+%F0%9F%92%BB%E2%9D%A4%EF%B8%8F" alt="Footer Typing"/>
+
+<p><strong>✨ "Code is poetry written in logic" ✨</strong></p>
+
+<!-- Footer Stats -->
+<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Made with Markdown"/>
+<img src="https://img.shields.io/badge/Maintained%3F-Yes-green.svg?style=for-the-badge" alt="Maintained"/>
+<img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-pink?style=for-the-badge" alt="Open Source Love"/>
+
+</div>
