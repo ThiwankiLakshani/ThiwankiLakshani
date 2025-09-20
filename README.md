@@ -13,17 +13,29 @@
 
 <br/>
 
-<!-- Additional Animated Developer Section -->
+<!-- Fixed Animated Developer Section -->
 <div align="center">
 
 ## 👨‍💻 Developer Life in Motion
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" alt="Developer GIF"/>
+<table border="0">
+ <tr>
+    <td><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Life"/></td>
+    <td><img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="250" alt="Developer Vibes"/></td>
+    <td><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Hacking Code"/></td>
+ </tr>
+</table>
 
-</div>
+### 💻 Alternative Animated Coding Images
+
+<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="400" alt="Animated Coding"/>
+
+### 🚀 More Coding Animations
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder" width="300"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding" width="300"/>
+</p>
 
 ### 💭 My Coding Journey
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=From+%22Hello+World%22+to+Complex+Systems;Debugging+is+like+being+a+detective;Coffee+%2B+Code+%3D+Magic+%E2%9C%A8;Building+the+future%2C+one+commit+at+a+time" alt="Developer Journey"/>
@@ -103,8 +115,6 @@ const thiwanki = {
   
 ## 🐍 Contribution Snake Game - Watch My Code Get Devoured!
 
-<div style="background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 20px; margin: 20px 0;">
-  
 ### 🎮 Interactive Snake Animation
 *The snake below represents my GitHub contribution journey - each commit becomes food for the snake!*
 
@@ -113,8 +123,6 @@ const thiwanki = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiwankiLakshani/ThiwankiLakshani/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThiwankiLakshani/ThiwankiLakshani/output/github-contribution-grid-snake.svg">
 </picture>
-
-</div>
 
 ### 🎯 Snake Game Stats
 <p align="center">
@@ -185,7 +193,23 @@ const thiwanki = {
 
 <br/>
 
+<!-- Coding Activity -->
+<div align="center">
 
+## 📈 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 30 mins  ████████████▒░░░░░░░░   52.3%
+TypeScript   6 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░   26.1%
+Python       3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░   15.7%
+CSS          1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░    5.9%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+<br/>
 
 <!-- Spotify Integration -->
 <div align="center">
