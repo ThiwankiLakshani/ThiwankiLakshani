@@ -179,49 +179,17 @@ const thiwanki = {
 ## 🚀 Featured Projects
 
 <p>
-  <a href="https://github.com/ThiwankiLakshani/awesome-project-1">
+  <a href="">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiwankiLakshani&repo=awesome-project-1&theme=react&hide_border=true" alt="Project 1"/>
   </a>
-  <a href="https://github.com/ThiwankiLakshani/cool-app-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiwankiLakshani&repo=cool-app-2&theme=react&hide_border=true" alt="Project 2"/>
-  </a>
+ 
 </p>
 
 </div>
 
 <br/>
 
-<!-- Coding Activity -->
-<div align="center">
 
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 30 mins  ████████████▒░░░░░░░░   52.3%
-TypeScript   6 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░   26.1%
-Python       3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░   15.7%
-CSS          1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░    5.9%
-```
-<!--END_SECTION:waka-->
-
-</div>
-
-<br/>
-
-<!-- Spotify Integration -->
-<div align="center">
-
-## 🎵 Current Vibe Check
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31c6ntc4hwlre3bdt3hf5ivcgm7m&count=3&unique=true" alt="Spotify Recently Played" width="400" />
-
-</div>
-
-<br/>
-
-<!-- Advanced Metrics -->
-<div align="center">
 
 ## 📊 Advanced GitHub Metrics
 
