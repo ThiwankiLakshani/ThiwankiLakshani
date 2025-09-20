@@ -185,23 +185,7 @@ const thiwanki = {
 
 <br/>
 
-<!-- Coding Activity -->
-<div align="center">
 
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 30 mins  ████████████▒░░░░░░░░   52.3%
-TypeScript   6 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░   26.1%
-Python       3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░   15.7%
-CSS          1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░    5.9%
-```
-<!--END_SECTION:waka-->
-
-</div>
-
-<br/>
 
 <!-- Spotify Integration -->
 <div align="center">
