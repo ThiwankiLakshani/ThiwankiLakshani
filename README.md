@@ -147,23 +147,7 @@ const thiwanki = {
 
 <br/>
 
-<!-- Featured Repositories -->
-<div align="center">
 
-## 🚀 Featured Projects
-
-<p>
-  <a href="https://github.com/ThiwankiLakshani/awesome-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiwankiLakshani&repo=awesome-project-1&theme=react&hide_border=true" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/ThiwankiLakshani/cool-app-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiwankiLakshani&repo=cool-app-2&theme=react&hide_border=true" alt="Project 2"/>
-  </a>
-</p>
-
-</div>
-
-<br/>
 
 
 
